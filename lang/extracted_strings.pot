@@ -1,0 +1,2615 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lonestweaks\n"
+"POT-Creation-Date: 2022-09-08 08:26+0300\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "Lones Tweaks"
+msgstr ""
+
+#. ~ Description for Lones Tweaks
+#: .\modinfo.json
+msgid "Adds various tweaks to the game Bn."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Adrenaline Pump"
+msgstr ""
+
+#. ~ Description for {'str': 'Adrenaline Pump'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A stimulator system has been surgically implanted alongside your adrenal "
+"glands, allowing you to trigger your body's adrenaline response at the cost "
+"of some bionic power."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Active Defense System"
+msgstr ""
+
+#. ~ Description for {'str': 'Active Defense System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"This bionic charges a forcefield around your body that deflects incoming "
+"attacks.  Bullets are heavily deflected, piercing well deflected, slashing "
+"moderately deflected and bashing barely deflected.  This bionic charges at "
+"half speed for 3 turns after being hit, and doesn't consume power when fully"
+" charged."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Alarm System"
+msgstr ""
+
+#. ~ Description for {'str': 'Alarm System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A motion-detecting alarm system will notice almost all movement within a "
+"fifteen-foot radius, and will silently alert you.  This is very useful "
+"during sleep, or if you suspect a cloaked pursuer."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Squeaky Ankles"
+msgstr ""
+
+#. ~ Description for {'str': 'Squeaky Ankles'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"In a cruel twist of fate, a poorly executed CBM surgery has given you a pair"
+" of useless bionics which make squeaking noises when you walk."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Alloy Plating - Arms"
+msgstr ""
+
+#. ~ Description for {'str': 'Alloy Plating - Arms'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The flesh on your arms and hands have been surgically replaced by alloy "
+"plating.  Provides passive protection and can be used in conjunction with "
+"bionic martial arts."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Protective Lenses"
+msgstr ""
+
+#. ~ Description for {'str': 'Protective Lenses'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your eye sockets have been surgically sealed with highly protective mirrored"
+" lenses and your tear ducts have been re-routed to your mouth.  When you "
+"cry, you must spit out or swallow your tears."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Alloy Plating - head"
+msgstr ""
+
+#. ~ Description for {'str': 'Alloy Plating - head'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The flesh on your head has been surgically replaced by alloy plating, "
+"protecting both your head and jaw regions."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Alloy Plating - Legs"
+msgstr ""
+
+#. ~ Description for {'str': 'Alloy Plating - Legs'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The flesh on your legs and feet have been surgically replaced by alloy "
+"plating.  Provides passive protection and can be used in conjunction with "
+"bionic martial arts."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Alloy Plating - torso"
+msgstr ""
+
+#. ~ Description for {'str': 'Alloy Plating - torso'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The flesh on your torso has been surgically replaced by alloy plating, "
+"protecting it from physical trauma."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Battery System"
+msgstr ""
+
+#. ~ Description for {'str': 'Battery System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You have a battery draining attachment, and thus can make use of the energy "
+"contained in normal, everyday batteries.  Use 'E' to drain charge from a "
+"battery.  Can be toggled on and off at will."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Monomolecular Blade"
+msgstr ""
+
+#. ~ Description for {'str': 'Monomolecular Blade'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A deadly foot-long blade made of advanced material now resides inside your "
+"forearm, capable of being extended through the back of your wrist at the "
+"cost of a small amount of power.  Though exceptionally sharp, it will "
+"prevent you from holding anything else while extended."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Shotgun Arm"
+msgstr ""
+
+#. ~ Description for {'str': 'Shotgun Arm'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Concealed in your left arm is a single shot 12 gauge shotgun.  Activate the "
+"bionic to fire and reload the shotgun."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Optical Dampers"
+msgstr ""
+
+#. ~ Description for {'str': 'Optical Dampers'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The lenses surgically installed over your eyes can be tinted to block out "
+"incoming light."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Blood Analysis"
+msgstr ""
+
+#. ~ Description for {'str': 'Blood Analysis'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Small sensors have been surgically implanted in your heart, allowing you to "
+"analyze your blood.  This will detect many illnesses, drugs, and other "
+"conditions."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Blood Filter"
+msgstr ""
+
+#. ~ Description for {'str': 'Blood Filter'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A filtration system in your heart allows you to actively filter out chemical"
+" impurities, primarily drugs.  It will have limited impact on viruses.  Note"
+" that it is not a targeted filter; ALL drugs in your system will be "
+"affected."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Cable Charger System"
+msgstr ""
+
+#. ~ Description for {'str': 'Cable Charger System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You have a complex port surgically mounted above your hip.  While active, it"
+" will recharge bionic power when connected to a power source via jumper "
+"cable."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Subdermal Carbon Filament"
+msgstr ""
+
+#. ~ Description for {'str': 'Subdermal Carbon Filament'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Lying just beneath your skin is a thin armor made of carbon nanotubes.  This"
+" reduces bashing damage by 2 and cutting damage by 4."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Chain Lightning"
+msgstr ""
+
+#. ~ Description for {'str': 'Chain Lightning'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your body is equipped with a chain lightning generator, allowing you to emit"
+" a blast of lightning at a target, leaving a trail of lightning in its wake,"
+" jumping to additional targets within 4 tiles of the previous target."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Bionic Claws"
+msgstr ""
+
+#. ~ Description for {'str': 'Bionic Claws'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Vicious claws have been surgically installed inside your fingers, allowing "
+"you to extend and retract them at the cost of a small amount of power.  "
+"These do considerable cutting damage, but prevent you from holding anything "
+"else while extended."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Internal Climate Control"
+msgstr ""
+
+#. ~ Description for {'str': 'Internal Climate Control'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Throughout your body lies a network of thermal piping, which eases the "
+"effects of high and low ambient temperatures when activated."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Cloaking System"
+msgstr ""
+
+#. ~ Description for {'str': 'Cloaking System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"This high-power system uses a set of cameras and LEDs to make you blend into"
+" your background, rendering you fully invisible to normal vision.  However, "
+"you may be detected by infrared, sonar, etc."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Close Quarters Battle"
+msgstr ""
+
+#. ~ Description for {'str': 'Close Quarters Battle'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Bionic processors and databanks, loaded with martial arts combat programs, "
+"are surgically integrated into your nervous system.  Whilst active, the CQB "
+"module will improve your hand to hand combat skills, but prevents you from "
+"improving them through combat experience."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Bionic-Induced Deformity"
+msgstr ""
+
+#. ~ Description for {'str': 'Bionic-Induced Deformity'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A combination of poor surgical installation and unpleasant scarring has lead"
+" to the malfunctioning bionic catastrophe you call your face.  People who "
+"mind that you look like a dime-store Frankenstein will react poorly to your "
+"appearance."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Wired Reflexes"
+msgstr ""
+
+#. ~ Description for {'str': 'Wired Reflexes'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your reaction time has been greatly enhanced with bionic nerve stimulators, "
+"giving you a +2 bonus to dexterity."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Expanded Digestive System"
+msgstr ""
+
+#. ~ Description for {'str': 'Expanded Digestive System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You have been outfitted with three synthetic stomachs and industrial-grade "
+"intestines.  Not only can you extract much more nutrition from food, but you"
+" are immune to foodborne illness, parasites, and can even eat rotten food."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Acidic Discharge"
+msgstr ""
+
+#. ~ Description for {'str': 'Acidic Discharge'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A malfunctioning bionic which occasionally discharges acid into your "
+"muscles, causing sharp pain and minor damage."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Electrical Discharge"
+msgstr ""
+
+#. ~ Description for {'str': 'Electrical Discharge'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A malfunctioning bionic which occasionally discharges electricity through "
+"your body, causing pain and brief paralysis but no damage."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Electrical Drain"
+msgstr ""
+
+#. ~ Description for {'str': 'Electrical Drain'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A malfunctioning bionic.  It doesn't perform any useful function, but will "
+"occasionally draw power from your batteries."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Sound Dampeners"
+msgstr ""
+
+#. ~ Description for {'str': 'Sound Dampeners'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"When this bionic is active, you can block hearing completely (with Enhanced "
+"Hearing deactivated) or dampen sound slightly (with Enhanced Hearing "
+"activated)."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Enhanced Hearing"
+msgstr ""
+
+#. ~ Description for {'str': 'Enhanced Hearing'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"When this bionic is active, your hearing will be drastically improved, "
+"allowing you to hear ten times better than the average person.  "
+"Additionally, high-intensity sounds will be automatically dampened before "
+"they can damage your hearing."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Directional EMP"
+msgstr ""
+
+#. ~ Description for {'str': 'Directional EMP'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Surgically mounted in the palm of your hand are small parabolic EMP field "
+"generators.  You may use power to fire a wide, but short-ranged blast which "
+"will disable electronics and robots."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "EMP Projector"
+msgstr ""
+
+#. ~ Description for {'str': 'EMP Projector'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A ranged EMP generator system is implanted on the palm of your right hand "
+"and arm.  The system fires precise, single-target pulses that require time "
+"to aim.  Extremely effective against electronic targets but mostly useless "
+"otherwise."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Ethanol Burner"
+msgstr ""
+
+#. ~ Description for {'str': 'Ethanol Burner'}
+#: .\CBM slots rebalance\bionics.json
+msgid "You burn alcohol as fuel in an extremely efficient reaction."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Aero-Evaporator"
+msgstr ""
+
+#. ~ Description for {'str': 'Aero-Evaporator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"This unit draws moisture from the surrounding air, which slowly trickles "
+"directly into your blood stream.  It may fail in very dry environments."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Diamond Cornea"
+msgstr ""
+
+#. ~ Description for {'str': 'Diamond Cornea'}
+#: .\CBM slots rebalance\bionics.json
+msgid "Your vision is greatly enhanced, giving you a +2 bonus to perception."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Telescopic Lenses"
+msgstr ""
+
+#. ~ Description for {'str': 'Telescopic Lenses'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The lenses in your eyes have been surgically removed and replaced with an "
+"array of high-powered, auto-focusing lenses.  They function as integrated "
+"binoculars, letting you see much farther than before, and any mundane vision"
+" problems you might have had are now gone."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Facial Distortion"
+msgstr ""
+
+#. ~ Description for {'str': 'Facial Distortion'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Through controlled application of electrochemical impulses, you are capable "
+"of altering your facial structure so as to subtly affect the reactions of "
+"others.  This grants a bonus to all social interactions."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Dielectric Capacitance System"
+msgstr ""
+
+#. ~ Description for {'str': 'Dielectric Capacitance System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Throughout your body lies a network of miniature piezoelectric capacitors "
+"which can be charged with bionic power to temporarily protect you from "
+"external electrical discharge."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Fingerhack"
+msgstr ""
+
+#. ~ Description for {'str': 'Fingerhack'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"One of your fingers has an electrohack surgically embedded in it; an all-"
+"purpose hacking unit used to override control panels and the like (but not "
+"computers).  Skill in computers is important, and a failed use may damage "
+"your circuits."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Flashbang Generator"
+msgstr ""
+
+#. ~ Description for {'str': 'Flashbang Generator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Light emitting diodes surgically integrated into your skin can release a "
+"flash comparable to a flashbang grenade, blinding nearby enemies.  Speakers "
+"integrated into your body mimic the loud sound, deafening those nearby."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Cranial Flashlight"
+msgstr ""
+
+#. ~ Description for {'str': 'Cranial Flashlight'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Surgically mounted between your eyes is a small but powerful LED flashlight."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "LED Tattoo"
+msgstr ""
+
+#. ~ Description for {'str': 'LED Tattoo'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A small LED display just beneath your dermal layer can be illuminated on "
+"command to show patterns of your choice at dim or bright luminosity.  It "
+"doesn't provide enough light to comfortably read or craft, but it can "
+"suffice if you have nothing else."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Glowy Thing"
+msgstr ""
+
+#. ~ Description for {'str': 'Glowy Thing'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You don't think that capacitor is *meant* to glow, but it does, and usually "
+"at bad times.  A malfunctioning bionic randomly turns on and off, causing "
+"you to glow and making you visible in the dark without improving how much "
+"you can see in the slightest."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Integrated Dosimeter"
+msgstr ""
+
+#. ~ Description for {'str': 'Integrated Dosimeter'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Small radiation sensors have been surgically implanted throughout your body,"
+" allowing you to analyze your level of absorbed radiation.  They will also "
+"alert you whenever exposed to environmental radiation."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Respirator"
+msgstr ""
+
+#. ~ Description for {'str': 'Respirator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A complex respiration augmentation system.  Improves respiration ability in "
+"air and allows breathing water.  Will automatically turn on when drowning.  "
+"Turn on to recharge stamina faster, at moderate power cost.  Asthmatics may "
+"also use it to stop asthma attacks."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Terranian Sonar"
+msgstr ""
+
+#. ~ Description for {'str': 'Terranian Sonar'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your feet are equipped with precision sonar equipment, allowing you to "
+"detect the movements of creatures below the ground, buried traps, and "
+"unstable terrain."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Heat Drain"
+msgstr ""
+
+#. ~ Description for {'str': 'Heat Drain'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"While fighting unarmed against a warm-blooded opponent, there is a chance "
+"that a successful hit will drain body heat, inflicting a small amount of "
+"extra damage, and increasing your power reserves slightly."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Thermal Dissipation"
+msgstr ""
+
+#. ~ Description for {'str': 'Thermal Dissipation'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Powerful heatsinks and supermaterials are surgically woven into your flesh."
+"  While powered, this system will prevent heat damage up to 2000 degrees "
+"Fahrenheit.  Note that this does not affect your internal temperature."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Hydraulic Muscles"
+msgstr ""
+
+#. ~ Description for {'str': 'Hydraulic Muscles'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"While activated, your muscles will be greatly enhanced, increasing your "
+"strength by 20."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Infrared Vision"
+msgstr ""
+
+#. ~ Description for {'str': 'Infrared Vision'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your range of vision extends into the infrared, allowing you to see warm-"
+"blooded creatures in the dark or through smoke."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Cerebral Booster"
+msgstr ""
+
+#. ~ Description for {'str': 'Cerebral Booster'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your brain has been enhanced with bionic coprocessors, giving you a +2 bonus"
+" to intelligence."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Itchy Metal Thing"
+msgstr ""
+
+#. ~ Description for {'str': 'Itchy Metal Thing'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A bionic of some sort, so badly installed that you cannot even tell what it "
+"was originally supposed to be.  Sometimes it itches horribly."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Finger-Mounted Laser"
+msgstr ""
+
+#. ~ Description for {'str': 'Finger-Mounted Laser'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"One of your fingers has a small high-powered laser surgically embedded in "
+"it.  This long range weapon is not incredibly damaging, but is very "
+"accurate, and has the potential to start fires."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Leaky Bionic"
+msgstr ""
+
+#. ~ Description for {'str': 'Leaky Bionic'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"This botched piece of bionic hardware slowly leaks electrolytic compounds, "
+"piezoelectric nanomaterials, and other high-tech contaminants into your "
+"bloodstream.  Needless to say, this is not good for your health."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Leukocyte Breeder System"
+msgstr ""
+
+#. ~ Description for {'str': 'Leukocyte Breeder System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You are equipped with bionic stimulators which augment your haematopoiesis "
+"system, allowing you to accelerate white blood cell production using bionic "
+"power.  It is supposed to run continuously and may cause unpleasant side "
+"effects when turned off."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Finger Lighter"
+msgstr ""
+
+#. ~ Description for {'str': 'Finger Lighter'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The index fingers of both hands have powerful fire starters which extend "
+"from the tip."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Fingerpick"
+msgstr ""
+
+#. ~ Description for {'str': 'Fingerpick'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"One of your fingers has an electronic lockpick surgically embedded in it.  "
+"This automatic system will quickly unlock all but the most advanced key "
+"locks without any skill required on the part of the user."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Electromagnetic Unit"
+msgstr ""
+
+#. ~ Description for {'str': 'Electromagnetic Unit'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Surgically embedded in your right hand is a powerful electromagnet, allowing"
+" you to use your own strength to pull all nearby magnetic objects towards "
+"you.  Unlucky bystanders might be injured or killed by flying objects."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Nictating Membrane"
+msgstr ""
+
+#. ~ Description for {'str': 'Nictating Membrane'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your eyes have a thin membrane that closes over your eyes while underwater, "
+"negating any vision penalties."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Enhanced Memory Banks"
+msgstr ""
+
+#. ~ Description for {'str': 'Enhanced Memory Banks'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your memory has been enhanced with small quantum storage drives.  While "
+"active, you learn - both through reading and practice - more quickly.  "
+"Additionally, you can't forget skills you've already learned."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Metabolic Interchange"
+msgstr ""
+
+#. ~ Description for {'str': 'Metabolic Interchange'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your digestive system and power supply are interconnected; bionic energy is "
+"replenished by burning calories.  Can be toggled on and off at will."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Weather Reader"
+msgstr ""
+
+#. ~ Description for {'str': 'Weather Reader'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A multitude of scientific instruments and sensors collect environmental "
+"data.  The data is compiled and presented as a simple readout of the current"
+" weather.  It also passively tells you the local air temperature."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Repair Nanobots"
+msgstr ""
+
+#. ~ Description for {'str': 'Repair Nanobots'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Inside your body is a fleet of tiny dormant robots.  While activated they "
+"will flit about your body, you randomly recover 1 HP every 15s, consuming "
+"power and calories only on a success.  It will also slow and eventually stop"
+" any bleeding on your body."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Artificial Night Generator"
+msgstr ""
+
+#. ~ Description for {'str': 'Artificial Night Generator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"When active, this bionic eliminates all light within a 2 tile radius through"
+" destructive interference."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Implanted Night Vision"
+msgstr ""
+
+#. ~ Description for {'str': 'Implanted Night Vision'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"When active, this bionic will amplify existing light, allowing you to see in"
+" the dark."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Noisemaker"
+msgstr ""
+
+#. ~ Description for {'str': 'Noisemaker'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A malfunctioning bionic.  It will occasionally emit a loud burst of noise."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Bionic Nostril"
+msgstr ""
+
+#. ~ Description for {'str': 'Bionic Nostril'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You're really not sure how the CBM ended up in your nose, but no matter how "
+"it got there this badly misplaced bionic makes it difficult to breathe.  "
+"Increases mouth encumbrance by ten."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Offensive Defense System"
+msgstr ""
+
+#. ~ Description for {'str': 'Offensive Defense System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A thin forcefield surrounds your body, continually draining power.  This "
+"field does not deflect attacks, but rather delivers a strong shock, damaging"
+" unarmed attackers and those with a conductive weapon."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Sensory Dulling"
+msgstr ""
+
+#. ~ Description for {'str': 'Sensory Dulling'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your nervous system is wired to allow you to inhibit the signals of pain, "
+"allowing you to dull your senses at will.  However, the use of this system "
+"may cause delayed reaction time and drowsiness."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Bionic Visual Impairment"
+msgstr ""
+
+#. ~ Description for {'str': 'Bionic Visual Impairment'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Due to a badly misplaced dielectric stylette, you are now suffering from "
+"mild optic neuropathy.  Increases eye encumbrance by ten."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Power Armor Interface"
+msgstr ""
+
+#. ~ Description for {'str': 'Power Armor Interface'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Interfaces your bionic power system with the internal charging port on suits"
+" of power armor, allowing them to draw from the user's bionic power banks.  "
+"Twice as efficient as using a UPS."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Power Armor Interface Mk. II"
+msgstr ""
+
+#. ~ Description for {'str': 'Power Armor Interface Mk. II'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Interfaces your bionic power system with the internal charging port on suits"
+" of power armor, allowing them to draw from the user's bionic power banks.  "
+"Four times as efficient as using a UPS, the Mk. II was designed by "
+"DoubleTech Inc., to meet the popularity of the Mk. II power armor series."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Power Storage"
+msgstr ""
+
+#. ~ Description for {'str': 'Power Storage'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A Compact Bionics Module that increases your power capacity by 100 kJ.  "
+"Having at least one of these is a prerequisite to using powered bionics.  "
+"You will also need a power supply, found in various CBMs."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Power Storage Mk. II"
+msgstr ""
+
+#. ~ Description for {'str': 'Power Storage Mk. II'}
+#: .\CBM slots rebalance\bionics.json
+msgid "A Compact Bionics Module that increases your power capacity by 250 kJ."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Power Overload"
+msgstr ""
+
+#. ~ Description for {'str': 'Power Overload'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Damaged power circuits cause short-circuiting inside your muscles when your "
+"batteries are above 75% capacity, causing greatly reduced strength.  This "
+"has no effect if you have no internal batteries."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Probability Travel"
+msgstr ""
+
+#. ~ Description for {'str': 'Probability Travel'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Increases your body's wavelength, allowing you to quantum tunnel through "
+"walls, reappearing on the other side.  Activate and select a direction to "
+"use.  Tunneling costs 100 bionic power per tile traveled through."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Air Filtration System (passive)"
+msgstr ""
+
+#. ~ Description for {'str': 'Air Filtration System (passive)'}
+#. ~ Description for {'str': 'Air Filtration System (active)'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Surgically implanted in your trachea is an advanced filtration system.  In "
+"it's passive form it will protect you against smoke inhalation.  Once "
+"activated, it will prevent spores, toxins and diseases from being inhaled."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Air Filtration System (active)"
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Radiation Scrubber System"
+msgstr ""
+
+#. ~ Description for {'str': 'Radiation Scrubber System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A system of advanced piezomechanical blood filters have been surgically "
+"implanted throughout your body, allowing you to purge yourself of absorbed "
+"radiation at the cost of some bionic power."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Railgun"
+msgstr ""
+
+#. ~ Description for {'str': 'Railgun'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"EM field generators in your arms double the range and damage of thrown iron "
+"and steel objects at a cost of 1 power per throw, causing them to leave a "
+"trail of electricity that can cause additional damage."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Fingertip Razors"
+msgstr ""
+
+#. ~ Description for {'str': 'Fingertip Razors'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You possess razor-sharp claws underneath your fingernails that do a small "
+"amount of unarmed slashing damage whenever your fingertips are uncovered."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Recycler Unit"
+msgstr ""
+
+#. ~ Description for {'str': 'Recycler Unit'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your digestive system has been outfitted with a series of filters and "
+"processors, allowing you to reclaim waste liquid and, to a lesser degree, "
+"nutrients.  The net effect is a greatly reduced need to eat and drink."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Remote Controller"
+msgstr ""
+
+#. ~ Description for {'str': 'Remote Controller'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A small module connected to your brain allows you to interface with nearby "
+"devices with wireless capabilities."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Sonic Resonator"
+msgstr ""
+
+#. ~ Description for {'str': 'Sonic Resonator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your entire body may resonate at very high power, creating a short-range "
+"shockwave.  While it will not do much damage to creatures, solid objects "
+"such as walls and doors will be damaged."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Olfactory Mask"
+msgstr ""
+
+#. ~ Description for {'str': 'Olfactory Mask'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"While this system is powered, your body will produce very little odor, "
+"making it nearly impossible for creatures to track you by scent."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Bionic Short Circuit"
+msgstr ""
+
+#. ~ Description for {'str': 'Bionic Short Circuit'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A poorly-wired bionic which fails to serve its intended purpose, this "
+"malfunctioning device periodically short-circuits, causing systemic muscle "
+"tremors."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Synaptic Regeneration System"
+msgstr ""
+
+#. ~ Description for {'str': 'Synaptic Regeneration System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"An electromagnetic stimulator has been surgically implanted on the back of "
+"your head and along your spine, continually draining power.  As long as it's"
+" active, you won't become sleep deprived; and if you're sleep deprived "
+"already, it will boost the rate of recovery while you sleep."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Electroshock Unit"
+msgstr ""
+
+#. ~ Description for {'str': 'Electroshock Unit'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"While fighting unarmed, or with a weapon that conducts electricity, there is"
+" a chance that a successful hit will shock your opponent, inflicting extra "
+"damage and disabling them temporarily at the cost of some energy."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Shockwave Generator"
+msgstr ""
+
+#. ~ Description for {'str': 'Shockwave Generator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You generate a powerful shockwave, knocking back all nearby creatures.  "
+"Targets are stunned briefly, take damage and additional stun upon impact "
+"with impassable terrain, and knockback any creatures they collide with."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Endocrine Enervator"
+msgstr ""
+
+#. ~ Description for {'str': 'Endocrine Enervator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Through a combination of psychochemical manipulation and old fashioned "
+"electrical nerve stimulation, this malfunctioning bionic alters your brain "
+"chemistry in such a way as to cause fatigue.  You will find yourself tiring "
+"a bit faster than before."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Motor Control Overstimulator"
+msgstr ""
+
+#. ~ Description for {'str': 'Motor Control Overstimulator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"One piezoelectric solenoid surgically installed backwards, two crossed "
+"wires, and four burned-out capacitors later you started falling on your face"
+" and writhing around at the least convenient times.  This incorrectly-"
+"configured bionic periodically stuns you for a short duration."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Synaptic Accelerator"
+msgstr ""
+
+#. ~ Description for {'str': 'Synaptic Accelerator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your nervous system has been enhanced with bionic stimulators, giving you a "
+"10% boost to your speed."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Wire-Induced Stiffness"
+msgstr ""
+
+#. ~ Description for {'str': 'Wire-Induced Stiffness'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Improperly installed wires cause a physical stiffness in most of your body, "
+"causing increased encumbrance."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Muscle Augmentation"
+msgstr ""
+
+#. ~ Description for {'str': 'Muscle Augmentation'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your muscular system has been surgically enhanced with myomer fibers, giving"
+" you a +2 bonus to strength."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Autonomous Surgical Scalpels"
+msgstr ""
+
+#. ~ Description for {'str': 'Autonomous Surgical Scalpels'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A system of surgical grade scalpels is implanted on your fingers.  They "
+"allow you to make automated precise cuts and can also be used as a high-"
+"quality butchering tool."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Anti-Glare Compensators"
+msgstr ""
+
+#. ~ Description for {'str': 'Anti-Glare Compensators'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your eyes have quick-reacting transition lenses surgically installed over "
+"them.  They negate glare penalties, partially protect you from bright "
+"flashes, and protect your eyes when welding."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Targeting System"
+msgstr ""
+
+#. ~ Description for {'str': 'Targeting System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your eyes are surgically equipped with range finders, and their movement is "
+"synced with that of your arms, to a degree.  Shots you fire will be much "
+"more accurate, particularly at long range."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Teleportation Unit"
+msgstr ""
+
+#. ~ Description for {'str': 'Teleportation Unit'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"This highly experimental unit folds space over short distances, instantly "
+"transporting your body up to 25 feet at the cost of much power.  Note that "
+"prolonged or frequent use may have dangerous side effects."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Self-Locking Thumbs"
+msgstr ""
+
+#. ~ Description for {'str': 'Self-Locking Thumbs'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Self-locking thumbs hold tight (even when you really don't want them to) and"
+" don't let go (even when you'd rather they did).  Increases hand encumbrance"
+" by ten, while failing to improve your ability to hold objects whatsoever."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Time Dilation"
+msgstr ""
+
+#. ~ Description for {'str': 'Time Dilation'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"At the cost of all stored bionic power, you may increase your body speed and"
+" reactions dramatically, essentially freezing time.  You are still delicate,"
+" however, and violent or rapid movements may damage you due to friction."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Integrated Toolset"
+msgstr ""
+
+#. ~ Description for {'str': 'Integrated Toolset'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Surgically implanted in your hands and fingers is a set of tools - "
+"screwdriver, hammer, wrench, hacksaw, drill, welder, and heating elements.  "
+"You can use this in place of many tools when crafting."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Extended Toolset"
+msgstr ""
+
+#. ~ Description for {'str': 'Extended Toolset'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Extend or withdraw your integrated toolset to cut metal, pry things, or "
+"other stuff.  This takes up your hands."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Joint Torsion Ratchet"
+msgstr ""
+
+#. ~ Description for {'str': 'Joint Torsion Ratchet'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your joints have been surgically equipped with torsion ratchets that slowly "
+"generate power when you move.  Whilst this is toggled, moving will require "
+"more effort, though more power will be generated."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Joint Servo"
+msgstr ""
+
+#. ~ Description for {'str': 'Joint Servo'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your leg joints have been equipped with servomotors that provide power-"
+"assisted movement.  They are optimized for running, but walking also "
+"requires less effort when this bionic is online.  However, when it's offline"
+" it will hamper your movement, as you struggle against its moving parts."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Visual Disruptor"
+msgstr ""
+
+#. ~ Description for {'str': 'Visual Disruptor'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A malfunctioning bionic which causes occasional visual distortion and "
+"pixelation."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Uncanny Dodge"
+msgstr ""
+
+#. ~ Description for {'str': 'Uncanny Dodge'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Your nervous system has been augmented with bionic processors, allowing you "
+"to dodge attacks beyond normal human capability, including bullets."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Internal Unified Power System"
+msgstr ""
+
+#. ~ Description for {'str': 'Internal Unified Power System'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You have a Unified Power System wired into your power banks.  Objects that "
+"run on a UPS can now draw directly from your bionic power supply."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Voice Remodulator"
+msgstr ""
+
+#. ~ Description for {'str': 'Voice Remodulator'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You will likely spend the rest of your days serving as a walking testament "
+"to why you don't opt for the Autodoc's 'Cyborg Identity Package'.  A "
+"remodulator unit jammed down your throat has given you a creepy robot voice."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Internal Chronometer"
+msgstr ""
+
+#. ~ Description for {'str': 'Internal Chronometer'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"You have been equipped with an internal atomic clock, ensuring that you will"
+" always know the current time.  Additionally, it includes a silent alarm "
+"clock function."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Water Extraction Unit"
+msgstr ""
+
+#. ~ Description for {'str': 'Water Extraction Unit'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Nanotubes surgically embedded in the palm of your hand will pump any "
+"available fluid out of a dead body, cleanse it of impurities and convert it "
+"into drinkable water.  You must, however, have a container to store the "
+"water in."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Gasoline Fuel Cell CBM"
+msgstr ""
+
+#. ~ Description for {'str': 'Gasoline Fuel Cell CBM'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A small gasoline fuel cell fixed to your scapula.  Despite its limited "
+"energy output compared to other fuel cells, this device still produces a "
+"significant amount of heat dissipated through a heat exhaust protruding from"
+" your back.  A diffuse network of bio-plastic bladders has been meshed with "
+"your circulatory system and serves as a fuel tank."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Intravenous Needletip"
+msgstr ""
+
+#. ~ Description for {'str': 'Intravenous Needletip'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"The flesh of the inside of your middle finger has been replaced with a tube "
+"leading into your arteries, with a retractable needle extending out of the "
+"tip of the finger when clenched.  This lets you pump intravenous drugs like "
+"morphine directly into your bloodstream without needing to carry a syringe."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Titanium Skeletal Bracing"
+msgstr ""
+
+#. ~ Description for {'str': 'Titanium Skeletal Bracing'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Titanium bracing has been installed onto your elbows, knees, and spine, "
+"making them far better at handling strain.  Your carrying capacity is "
+"increased by 20 kilograms, or about 44 pounds."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Kinetic Shock Absorbers"
+msgstr ""
+
+#. ~ Description for {'str': 'Kinetic Shock Absorbers'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"Most of the flesh in your arms, legs, and upper torso has been replaced with"
+" industrial-strength springs and protective padding.  Clenching your fist "
+"allows you to fold and unfold this padding; while active, the hydraulic "
+"absorbers will prevent damage to your body from severe impacts, at the cost "
+"of impaired movement."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Taste Modifier"
+msgstr ""
+
+#. ~ Description for {'str': 'Taste Modifier'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"A set of highly sensitive sensors is installed in your mouth, and a small "
+"yet sophisticated analyzer is installed in the cavity of your skull.  The "
+"active bionic will nullify the taste of all comestibles with negative "
+"enjoyment value at the cost of draining bionic power."
+msgstr ""
+
+#: .\CBM slots rebalance\bionics.json
+msgid "Soporific Induction"
+msgstr ""
+
+#. ~ Description for {'str': 'Soporific Induction'}
+#: .\CBM slots rebalance\bionics.json
+msgid ""
+"An electrode has been implanted into your brain's ventrolateral preoptic "
+"nucleus.  It turns on whenever you're trying to fall asleep, creating an "
+"artificial but effective sensation of fatigue."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "appendix"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "appendix"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "It's inflamed."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Appendices"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "torso"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "torso"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Dodging and melee is hampered."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Torso"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "TORSO"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "head"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "head"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Head"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "HEAD"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "eyes"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "eyes"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Ranged combat is hampered."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Eyes"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "mouth"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "mouth"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Running is slowed."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Mouth"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "left arm"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "arms"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "left arm"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "arms"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Melee and ranged combat is hampered."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "L. Arm"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Arms"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "L ARM"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "right arm"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "right arm"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "R. Arm"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "R ARM"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "left hand"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "hands"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "left hand"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "hands"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Manual tasks are slowed."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "L. Hand"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Hands"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "right hand"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "right hand"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "R. Hand"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "left leg"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "legs"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "left leg"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "legs"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Running and swimming are slowed."
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "L. Leg"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Legs"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "L LEG"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "right leg"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "right leg"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "R. Leg"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "R LEG"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "left foot"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "feet"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "left foot"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "feet"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "L. Foot"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "Feet"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "right foot"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgctxt "bodypart_accusative"
+msgid "right foot"
+msgstr ""
+
+#: .\CBM slots rebalance\body_parts.json
+msgid "R. Foot"
+msgstr ""
+
+#: .\CBM slots rebalance\modinfo.json
+msgid "Lones CBM slot balance"
+msgstr ""
+
+#. ~ Description for Lones CBM slot balance
+#: .\CBM slots rebalance\modinfo.json
+msgid "Rebalances CBM slots to allow more tactical choices."
+msgstr ""
+
+#: .\Electronic tools\electronics.json
+msgid "Wearable smartphone"
+msgid_plural "Wearable smartphones"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'Wearable smartphone'}.
+#. ~ Use action msg for {'str': 'Pip Pad'}.
+#: .\Electronic tools\electronics.json
+msgid "You activate the flashlight app."
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'Wearable smartphone'}.
+#. ~ Use action need_charges_msg for {'str': 'Pip Pad'}.
+#: .\Electronic tools\electronics.json
+msgid "The smartphone's charge is too low."
+msgstr ""
+
+#. ~ Description for {'str': 'Wearable smartphone'}
+#: .\Electronic tools\electronics.json
+msgid ""
+"A niche, fancy smartphone. New tech that allows phones to be worn on the "
+"arm! Capable of taking pictures, music, and has a alarm clock!  Runs on a "
+"small, rechargeable power cell compatible with Unified Power Supply."
+msgstr ""
+
+#: .\Electronic tools\electronics.json
+msgid "smartphone - music"
+msgid_plural "smartphones - music"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'smartphone - music', 'str_pl': 'smartphones -
+#. music'}
+#: .\Electronic tools\electronics.json
+msgid ""
+"This phone is playing music, steadily raising your morale.  You can't hear "
+"anything else while you're listening."
+msgstr ""
+
+#: .\Electronic tools\electronics.json
+msgid "smartphone - Flashlight"
+msgid_plural "smartphones - Flashlight"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'smartphone - Flashlight', 'str_pl':
+#. 'smartphones - Flashlight'}.
+#: .\Electronic tools\electronics.json
+msgid "Turn off flashlight"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'smartphone - Flashlight', 'str_pl':
+#. 'smartphones - Flashlight'}.
+#: .\Electronic tools\electronics.json
+msgid "You deactivate the flashlight app."
+msgstr ""
+
+#: .\Electronic tools\electronics.json
+msgid "Pip Pad"
+msgid_plural "Pip Pads"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pip Pad'}
+#: .\Electronic tools\electronics.json
+msgid ""
+"A rare wrist worn personal information processor, it has radio, picture "
+"taking abilites, and a light, also has map data you can access."
+msgstr ""
+
+#: .\Electronic tools\electronics.json
+msgid "Atomic military watch"
+msgid_plural "Atomic military watches"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Atomic military watch', 'str_pl': 'Atomic
+#. military watches'}
+#: .\Electronic tools\electronics.json
+msgid ""
+"A waterproof military watch. It has reliable weather data, a compass, and "
+"acts as a communication device and runs on the power of the Atom! Has a "
+"feint hum and green glow.  Activate to use."
+msgstr ""
+
+#: .\Guns-Bows\ammo_types.json
+msgid "6.8x51"
+msgstr ""
+
+#: .\Guns-Bows\ammolink.json
+msgid "ammo belt linkage"
+msgid_plural "ammo belt linkages"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ammo belt linkage'}
+#: .\Guns-Bows\ammolink.json
+msgid "A small metal linkage from a disintegrating ammo belt."
+msgstr ""
+
+#: .\Guns-Bows\ammolink.json
+msgid "6.8x51 ammo belt linkage"
+msgid_plural "6.8x51 ammo belt linkages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\casing.json
+msgid "6.8x51 casing"
+msgid_plural "6.8x51 casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6.8x51 casing'}
+#: .\Guns-Bows\casing.json
+msgid "An empty casing from a .6.8x51 round."
+msgstr ""
+
+#: .\Guns-Bows\Ammo\6.8x51 ammo.json
+msgid "6.8x51 mm"
+msgid_plural "6.8x51 mms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6.8x51 mm'}
+#: .\Guns-Bows\Ammo\6.8x51 ammo.json
+msgid ""
+"The .277 Fury or 6.8×51mm Common Cartridge, designated as the .277 SIG Fury "
+"by the SAAMI, is a centerfire rimless bottlenecked rifle cartridge announced"
+" by SIG Sauer in late 2019. Its hybrid three-piece cartridge case has a "
+"steel case head and brass body connected by an aluminum locking washer to "
+"support the high chamber pressure of 80,000 psi"
+msgstr ""
+
+#: .\Guns-Bows\Bow mag\Bow mags.json
+msgid "Auto bolt mag"
+msgid_plural "Auto bolt mags"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Auto bolt mag'}
+#: .\Guns-Bows\Bow mag\Bow mags.json
+msgid "This mag holds ten bolts for the auto crossbow."
+msgstr ""
+
+#: .\Guns-Bows\Bows\crossbows.json
+msgid "auto crossbow"
+msgid_plural "auto crossbows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Bows\crossbows.json
+msgid ""
+"A well made crossbow with a mechanism that loads and fires bolts in a single"
+" motion. Bolts fired from this weapon have a good chance of remaining intact"
+" for re-use."
+msgstr ""
+
+#: .\Guns-Bows\Bows\crossbows.json .\Guns-Bows\Gun\6.8x51 gun.json
+#: .\Guns-Bows\Gun\9mm.json
+msgid "semi"
+msgstr ""
+
+#: .\Guns-Bows\Bows\crossbows.json .\Guns-Bows\Gun\44.json
+#: .\Guns-Bows\Gun\6.8x51 gun.json
+msgid "burst"
+msgstr ""
+
+#: .\Guns-Bows\Bows\crossbows.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr ""
+
+#: .\Guns-Bows\Gun\22.json
+msgid "Life Card"
+msgid_plural "Life Card"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\22.json
+msgid ""
+"A very sleek single shot .22 pistol, no bigger than a stack of credit cards."
+"  At .5 inches thin and weighing less than 7 ounces, it could save your "
+"life."
+msgstr ""
+
+#: .\Guns-Bows\Gun\22.json .\Guns-Bows\Gun\44.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr ""
+
+#: .\Guns-Bows\Gun\308.json
+msgid "M134D-M Minigun"
+msgid_plural "M134D-M Miniguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\308.json
+msgid ""
+"The M134D-M Mini mini gun is a much smaller versions of the standard M134  "
+"This versions is for personal use and doesnt need to be mounted to work."
+msgstr ""
+
+#: .\Guns-Bows\Gun\308.json
+msgid "low auto"
+msgstr ""
+
+#: .\Guns-Bows\Gun\308.json
+msgid "high auto"
+msgstr ""
+
+#: .\Guns-Bows\Gun\308.json .\Guns-Bows\Gun\energy.json .\Guns-Bows\Gun
+#: Mod\items.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#: .\Guns-Bows\Gun\44.json
+msgid "Modified Desert Eagle .44"
+msgid_plural "Modified Desert Eagle .44"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\44.json
+msgid ""
+"One of the most recognizable handguns due to its popularity. This one was "
+"professionally modified to have a two shot burst. It's a large pistol, but "
+"its heavy weight reduces recoil."
+msgstr ""
+
+#: .\Guns-Bows\Gun\50.json
+msgid "Gmg Lynx"
+msgid_plural "Gmg Lynx"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\50.json
+msgid ""
+"The GM6 Lynx is a semi-automatic,  long-recoil operated anti-materiel rifle "
+"that is chambered to fire .50cal rounds.  Has a lockable barrel."
+msgstr ""
+
+#: .\Guns-Bows\Gun\6.8x51 gun.json
+msgid "Xm250"
+msgid_plural "Xm250s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\6.8x51 gun.json
+msgid ""
+"The XM250 is the US military designation for the SIG-LMG a 6.8×51mm, gas-"
+"operated, belt-fed, light machine gun designed by SIG Sauer for the U.S. "
+"Army's Next Generation Squad Weapon Program in 2022 to replace the M249 "
+"light machine gun. The XM250 features a free-floating reinforced M-LOK "
+"handguard for direct accessory attachment onto the negative space hollow "
+"slot mounting points."
+msgstr ""
+
+#: .\Guns-Bows\Gun\6.8x51 gun.json .\Guns-Bows\Gun\9mm.json
+msgid "auto"
+msgstr ""
+
+#: .\Guns-Bows\Gun\6.8x51 gun.json
+msgid "Xm5 rifle"
+msgid_plural "Xm5 rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\6.8x51 gun.json
+msgid ""
+"The XM5 is the U.S. Army variant of the SIG MCX Spear, a 6.8×51mm, gas-"
+"operated, magazine-fed, assault rifle designed by SIG Sauer for the Next "
+"Generation Squad Weapon Program in 2022 to replace the M4 carbine. The XM5 "
+"features a free-floating reinforced M-LOK handguard for direct accessory "
+"attachment onto the negative space hollow slot mounting points."
+msgstr ""
+
+#: .\Guns-Bows\Gun\9mm.json
+msgid "Beretta 93R"
+msgid_plural "Beretta 93R"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\9mm.json
+msgid ""
+"An iconic 9x19mm pistol made in the late 1970's for police and military. It "
+"has selective fire."
+msgstr ""
+
+#: .\Guns-Bows\Gun\energy.json
+msgid "Arc lightning rifle"
+msgid_plural "Arc lightning rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\energy.json
+msgid ""
+"This gun is a very early prototype of a chain lightning rifle, it uses UPS, "
+"be careful it can still hurt you too."
+msgstr ""
+
+#: .\Guns-Bows\Gun\energy.json
+msgid "Archflash EMG coilgun"
+msgid_plural "Archflash EMG coilguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun\energy.json
+msgid ""
+"Made by Arch Flash labs this gun is very powerful and very rare, not many "
+"were made."
+msgstr ""
+
+#: .\Guns-Bows\Gun Mod\items.json
+msgid "belt feed adapter"
+msgid_plural "belt feed adapters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun Mod\items.json
+msgid ""
+"A kit providing the necessary parts for permanently converting a firearm "
+"from magazine to belt-feed.  Guaranteed to void your warranty."
+msgstr ""
+
+#: .\Guns-Bows\Gun Mod\items.json
+msgid "magazine"
+msgstr ""
+
+#: .\Guns-Bows\Gun mag\308.json
+msgid "7.62x51mm ammo belt small"
+msgid_plural "7.62x51mm ammo belt smalls"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun mag\50.json
+msgid "Gmg Lynx mag"
+msgid_plural "Gmg Lynx mags"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Gmg Lynx mag'}
+#: .\Guns-Bows\Gun mag\50.json
+msgid "Standard 5-round box magazine for a Gmg Lynx."
+msgstr ""
+
+#: .\Guns-Bows\Gun mag\6.8x51 mag.json
+msgid "200 round 6.8x51mm ammo pouch"
+msgid_plural "200 round 6.8x51mm ammo pouchs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun mag\6.8x51 mag.json
+msgid "100 round 6.8x51mm ammo pouch"
+msgid_plural "100 round 6.8x51mm ammo pouchs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun mag\6.8x51 mag.json
+msgid "50 round 6.8x51mm ammo pouch"
+msgid_plural "50 round 6.8x51mm ammo pouchs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun mag\6.8x51 mag.json
+msgid "30 round 6.8x51mm ammo pouch"
+msgid_plural "30 round 6.8x51mm ammo pouchs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Guns-Bows\Gun mag\6.8x51 mag.json
+msgid "XM5 20 round magazine"
+msgid_plural "XM5 20 round magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XM5 20 round magazine'}
+#: .\Guns-Bows\Gun mag\6.8x51 mag.json
+msgid ""
+"A 20 round magazine for the XM5.  It resembles a STANAG magazine but is not "
+"compatible nor interchangeable."
+msgstr ""
+
+#: .\Items\socks.json
+msgid "pair of cargo socks"
+msgid_plural "pairs of cargo socks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of cargo socks', 'str_pl': 'pairs of cargo
+#. socks'}
+#: .\Items\socks.json
+msgid "Cargo socks.  No fucking way these exist."
+msgstr ""
+
+#: .\Items\storage.json
+msgid "XL tactical backpack"
+msgid_plural "XL tactical backpacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XL tactical backpack'}
+#: .\Items\storage.json
+msgid ""
+"An extra large tactical multi-compartment backpack that has ample space for "
+"storage as well as a mag compartment. Meant to offer as much storage while "
+"not being as encumbering"
+msgstr ""
+
+#: .\Lones Flesh Raptors\monster_special_attacks\spells.json
+msgid "Spawn Raptors"
+msgstr ""
+
+#. ~ Description for {'str': 'Spawn Raptors'}
+#: .\Lones Flesh Raptors\monster_special_attacks\spells.json
+msgid "Summons a few zombiespawn raptors."
+msgstr ""
+
+#. ~ Description for {'str': 'Spawn Raptors'}
+#: .\Lones Flesh Raptors\monster_special_attacks\spells.json
+msgid "Summons many zombiespawn raptors."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monster_special_attacks\spells.json
+msgid "Spawn Shady Raptors"
+msgstr ""
+
+#. ~ Description for {'str': 'Spawn Shady Raptors'}
+#: .\Lones Flesh Raptors\monster_special_attacks\spells.json
+msgid "Summons a few shady zombiespawn raptors."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monster_special_attacks\spells.json
+msgid "Spawning Zombie Die"
+msgstr ""
+
+#. ~ Description for {'str': 'Spawning Zombie Die'}
+#: .\Lones Flesh Raptors\monster_special_attacks\spells.json
+msgid "For zombies that are spawning something and die in the process."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monsters\zed-pupating.json
+msgid "pupating zombie crawler"
+msgid_plural "pupating zombie crawlers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pupating zombie crawler'}
+#: .\Lones Flesh Raptors\monsters\zed-pupating.json
+msgid ""
+"This half of a human corpse is wrapped in sticky black fibers that cover "
+"everything neck down.  Beneath the wrapping there is strange rhythmic "
+"movement grotesque to behold."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monsters\zed-pupating.json
+msgid "pupating zombie"
+msgid_plural "pupating zombies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pupating zombie'}
+#: .\Lones Flesh Raptors\monsters\zed-pupating.json
+msgid ""
+"This human corpse is wrapped in sticky black fibers that cover everything "
+"neck down.  Beneath the wrapping there is strange rhythmic movement "
+"grotesque to behold."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monsters\zed-pupating.json
+msgid "shady pupating zombie"
+msgid_plural "shady pupating zombies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'shady pupating zombie'}
+#: .\Lones Flesh Raptors\monsters\zed-pupating.json
+msgid ""
+"An uncanny shadow envelops this creature.  You can make out the outline of "
+"what once may have been a human being, but its edges bulge rhythmically in "
+"places that are not anatomically possible for humans."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid "flesh-raptor"
+msgid_plural "flesh-raptors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'flesh-raptor'}
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid ""
+"This small winged predator darts through the air on three thinly haired "
+"wings that look like stretched human hands.  Where the wings meet juts a "
+"sheer jagged spike.  It looks like nothing you've seen on Earth, and yet "
+"strangely like it was made of human parts."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid "shadow raptor"
+msgid_plural "shadow raptors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'shadow raptor'}
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid ""
+"An uncanny shadow envelops this creature.  You can make out the outline of "
+"three flapping wings connected to a jagged pointed object."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid "unstable flesh-raptor"
+msgid_plural "unstable flesh-raptor"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'unstable flesh-raptor'}
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid ""
+"This small winged predator darts through the air on three thinly haired "
+"wings that look like stretched human hands.  Where the wings meet juts a "
+"jagged spike and a bloated fleshy belly."
+msgstr ""
+
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid "zaptor"
+msgid_plural "zaptors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'zaptor'}
+#: .\Lones Flesh Raptors\monsters\zed-winged.json
+msgid ""
+"This small winged predator darts through the air on three thinly haired "
+"wings that look like stretched human hands.  Where the wings meet juts a "
+"jagged spike with a pulsing electrical glow."
+msgstr ""
+
+#: .\Lones Translocator gates\gates.json
+msgid "Deployed Translocator Beacon"
+msgstr ""
+
+#. ~ Description for Deployed Translocator Beacon
+#: .\Lones Translocator gates\gates.json
+msgid ""
+"An odd metal shape covered in plastic, the internal diagram acts as a beacon"
+" for translocation, once attuned.  Can be picked up using deconstruction."
+msgstr ""
+
+#: .\Lones Translocator gates\gates.json
+msgid "smash!"
+msgstr ""
+
+#: .\Lones Translocator gates\gates.json
+msgid "whump."
+msgstr ""
+
+#: .\Lones Translocator gates\gates.json
+msgid "portable translocator beacon"
+msgid_plural "portable translocator beacons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'portable translocator beacon'}
+#: .\Lones Translocator gates\gates.json
+msgid ""
+"This is a rare, bizarre, and arcane device of an otherworldly nature.  It's "
+"giving you a headache just looking at it.  It is covered in alien markings, "
+"faintly visible below the plastic covering."
+msgstr ""
+
+#: .\Lones Translocator gates\gates.json
+msgid "personal translocator"
+msgid_plural "personal translocators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'personal translocator'}
+#: .\Lones Translocator gates\gates.json
+msgid ""
+"This is an experimental device that will translocate you to an attuned "
+"beacon when activated."
+msgstr ""
+
+#: .\Lones Translocator gates\gates.json
+msgid "Translocate"
+msgstr ""
+
+#. ~ Description for Translocate
+#: .\Lones Translocator gates\gates.json
+msgid "Translocates the user to an attuned beacon."
+msgstr ""
+
+#: .\Lones Translocator gates\gates.json
+msgid "computer printout"
+msgid_plural "computer printouts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'computer printout'}
+#: .\Lones Translocator gates\gates.json
+msgid ""
+"One side of this sheet is printed an insane diagram of wildly crossing "
+"lines.  The other side describes a beacon that allows a dimensional "
+"translocator to anchor itself, utilizing the diagram from the other side, "
+"and how to verify the creation."
+msgstr ""
+
+#: .\Lones Translocator gates\modinfo.json
+msgid "Lones Translocator Gates"
+msgstr ""
+
+#. ~ Description for Lones Translocator Gates
+#: .\Lones Translocator gates\modinfo.json
+msgid "Translocator and portable Gates!"
+msgstr ""
+
+#: .\Lones Wearable UPS\electronics.json
+msgid "advanced UPS"
+msgid_plural "advanced UPS's"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'advanced UPS', 'str_pl': "advanced UPS's"}
+#: .\Lones Wearable UPS\electronics.json
+msgid ""
+"This is an advanced version of the unified power supply, or UPS.  Designed "
+"for military use to power advanced weapons, it uses plutonium fuel cells "
+"which provide better efficiency, but are not rechargeable.  It can power "
+"many household electronics as well."
+msgstr ""
+
+#: .\Lones Wearable UPS\electronics.json
+msgid "UPS"
+msgid_plural "UPS's"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'UPS', 'str_pl': "UPS's"}
+#: .\Lones Wearable UPS\electronics.json
+msgid ""
+"This is a unified power supply, or UPS.  It is a civilian evolution of a "
+"military project.  Designed to power advanced weapons and armor, the "
+"civilian version serves as a portable power bank and inverter for many "
+"household electronics."
+msgstr ""
+
+#: .\Lones Wearable UPS\modinfo.json
+msgid "Lones Wearable UPS"
+msgstr ""
+
+#. ~ Description for Lones Wearable UPS
+#: .\Lones Wearable UPS\modinfo.json
+msgid "Adds Wearable UPS to the game."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Chain Whip"
+msgid_plural "Chain Whips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Chain Whip'}
+#: .\Melee weapons\misc.json
+msgid ""
+"A long slightly rusty chain usable as a whip.  You don't know how you can "
+"use this but you can."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Apache knuckleduster"
+msgid_plural "Apache Knuckledusters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'Apache knuckleduster', 'str_pl': 'Apache
+#. Knuckledusters'}.
+#: .\Melee weapons\misc.json
+msgid "You switch the knuckleduster from melee to revolver mode"
+msgstr ""
+
+#. ~ Description for {'str': 'Apache knuckleduster', 'str_pl': 'Apache
+#. Knuckledusters'}
+#: .\Melee weapons\misc.json
+msgid ""
+"This unique knuckleduster has a .38 revolver, as well as a knife this is "
+"surly unique."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Apache revolver"
+msgid_plural "Apache revolver"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Melee weapons\misc.json
+msgid "A six-shot revolver, its integral to the Apache knuckleduster."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Electro Chain Whip"
+msgid_plural "Electro Chain Whips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'Electro Chain Whip'}.
+#: .\Melee weapons\misc.json
+msgid "The %s sparks to life!"
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'Electro Chain Whip'}.
+#: .\Melee weapons\misc.json
+msgid "The %s is out of juice!"
+msgstr ""
+
+#. ~ Description for {'str': 'Electro Chain Whip'}
+#: .\Melee weapons\misc.json
+msgid ""
+"A long slightly rusty chain usable as a whip.  This one has a series of "
+"wires and connectors to it, and a place for a battery at the hilt.  Activate"
+" it to electrify."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Electro Chain Whip (on)"
+msgid_plural "Electro Chain Whip (on)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'Electro Chain Whip (on)', 'str_p':
+#. 'Electro Chain Whips (on)'}.
+#: .\Melee weapons\misc.json
+msgid "Turn off"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'Electro Chain Whip (on)', 'str_p': 'Electro
+#. Chain Whips (on)'}.
+#: .\Melee weapons\misc.json
+msgid "The %s powers off."
+msgstr ""
+
+#. ~ Description for {'str': 'Electro Chain Whip (on)', 'str_p': 'Electro
+#. Chain Whips (on)'}
+#: .\Melee weapons\misc.json
+msgid ""
+"A long slightly rusty chain usable as a whip.  This one has a series of "
+"wires and connectors to it, and a place for a battery at the hilt.  It's "
+"currently on, arcing with electricity that will zap whatever you hit with "
+"it."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "double action OTF switchblade"
+msgid_plural "double action OTF switchblades"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'double action OTF switchblade'}.
+#: .\Melee weapons\misc.json
+msgid "You switch the blade out"
+msgstr ""
+
+#. ~ Description for {'str': 'double action OTF switchblade'}
+#: .\Melee weapons\misc.json
+msgid ""
+"This knifes blade is in the hilt, at the touch of a button the blade comes "
+"out."
+msgstr ""
+
+#. ~ Use action msg for {'str': 'double action OTF switchblade'}.
+#: .\Melee weapons\misc.json
+msgid "You switch the blade down"
+msgstr ""
+
+#. ~ Description for {'str': 'double action OTF switchblade'}
+#: .\Melee weapons\misc.json
+msgid ""
+"This knives blade is in the hilt, at the touch of a button the blade comes "
+"out."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Bat-Chete"
+msgid_plural "Bat-Chetes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bat-Chete'}
+#: .\Melee weapons\misc.json
+msgid ""
+"A sturdy wood bat, this one has a machete built into it! Makes a supreme "
+"melee weapon."
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Survival Spear"
+msgid_plural "Survival Spears"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for Survival Spear.
+#: .\Melee weapons\misc.json
+msgid "You switch the spear to the shotgun side and ready yourself"
+msgstr ""
+
+#. ~ Description for Survival Spear
+#: .\Melee weapons\misc.json
+msgid ""
+"This is a survival spear, it has a shotgun built into it, holds eight "
+"shells. Quite hard to use"
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgid "Survival shotgun"
+msgid_plural "Survival shotguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Melee weapons\misc.json
+msgid "A shotgun thats built into the spear"
+msgstr ""
+
+#: .\Melee weapons\misc.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr ""
+
+#. ~ Name for scenario 'Winter Evacuee' for a male character
+#: .\Scenarios\scenarios.json
+msgctxt "scenario_male"
+msgid "Winter Evacuee"
+msgstr ""
+
+#. ~ Name for scenario 'Winter Evacuee' for a female character
+#: .\Scenarios\scenarios.json
+msgctxt "scenario_female"
+msgid "Winter Evacuee"
+msgstr ""
+
+#. ~ Description for scenario 'Winter Evacuee' for a male character.
+#: .\Scenarios\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You have survived the initial wave of panic, and have achieved (relative) "
+"safety in one of the many government evac shelters and its winter!."
+msgstr ""
+
+#. ~ Description for scenario 'Winter Evacuee' for a female character.
+#: .\Scenarios\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You have survived the initial wave of panic, and have achieved (relative) "
+"safety in one of the many government evac shelters and its winter!."
+msgstr ""
+
+#. ~ Starting location for scenario 'Winter Evacuee'.
+#: .\Scenarios\scenarios.json
+msgctxt "start_name"
+msgid "Evac Shelter"
+msgstr ""
+
+#. ~ Name for scenario 'Preped & cold' for a male character
+#: .\Scenarios\scenarios.json
+msgctxt "scenario_male"
+msgid "Preped & cold"
+msgstr ""
+
+#. ~ Name for scenario 'Preped & cold' for a female character
+#: .\Scenarios\scenarios.json
+msgctxt "scenario_female"
+msgid "Preped & cold"
+msgstr ""
+
+#. ~ Description for scenario 'Preped & cold' for a male character.
+#: .\Scenarios\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You knew something was coming, you prepared, when the dead rose, you boarded"
+" up your house. With your house now barricaded, it's time to make a "
+"decision."
+msgstr ""
+
+#. ~ Description for scenario 'Preped & cold' for a female character.
+#: .\Scenarios\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You knew something was coming, you prepared, when the dead rose, you boarded"
+" up your house. With your house now barricaded, it's time to make a "
+"decision."
+msgstr ""
+
+#. ~ Starting location for scenario 'Preped & cold'.
+#: .\Scenarios\scenarios.json
+msgctxt "start_name"
+msgid "Boarded Up House"
+msgstr ""
+
+#. ~ Name for scenario 'Challenge - An Extra Really Bad Day' for a male
+#. character
+#: .\Scenarios\scenarios.json
+msgctxt "scenario_male"
+msgid "Challenge - An Extra Really Bad Day"
+msgstr ""
+
+#. ~ Name for scenario 'Challenge - An Extra Really Bad Day' for a female
+#. character
+#: .\Scenarios\scenarios.json
+msgctxt "scenario_female"
+msgid "Challenge - An Extra Really Bad Day"
+msgstr ""
+
+#. ~ Description for scenario 'Challenge - An Extra Really Bad Day' for a male
+#. character.
+#: .\Scenarios\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You start drunk to the point of incapacitation, depressed, infected, "
+"surrounded by fire, and sick with the flu in the beginning of winter.  This "
+"day went downhill really fast."
+msgstr ""
+
+#. ~ Description for scenario 'Challenge - An Extra Really Bad Day' for a
+#. female character.
+#: .\Scenarios\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You start drunk to the point of incapacitation, depressed, infected, "
+"surrounded by fire, and sick with the flu in the beginning of winter.  This "
+"day went downhill really fast."
+msgstr ""
+
+#. ~ Starting location for scenario 'Challenge - An Extra Really Bad Day'.
+#: .\Scenarios\scenarios.json
+msgctxt "start_name"
+msgid "In Town"
+msgstr ""
+
+#: .\Spells\spells.json
+msgid "Electrowhip Zap"
+msgstr ""
+
+#. ~ Description for {'str': 'Electrowhip Zap'}
+#: .\Spells\spells.json
+msgid "Zaps someone in melee."
+msgstr ""
